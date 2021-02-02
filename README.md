@@ -13,4 +13,4 @@ This is a starter project for the backend portion of the TechTalk pairing interv
 http://localhost:8080/h2-console
     
 ## Interview Resources
-- [Front-End Repository](https://github.homedepot.com/jcy4pdd/techtalk-ui)
+- [Front-End Repository](https://github.com/homedepot/techtalk-ui)
