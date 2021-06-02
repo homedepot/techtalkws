@@ -123,5 +123,4 @@ hs_err_pid*
 
 /build/
 ./gradle
-gradlew.bat
 /spark-warehouse/
